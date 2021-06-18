@@ -1,0 +1,8 @@
+- name: Client Library Help
+  items:
+    - name: Getting started
+      href: getting-started.md
+    - name: Troubleshooting
+      href: troubleshooting.md
+    - name: Versioning
+      href: versioning.md
